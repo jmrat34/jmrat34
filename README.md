@@ -16,7 +16,6 @@ I am passionate about cybersecurity and IT so I created this page to serve as a 
 ## Education
 
 Bachelor of Science in Cybersecurity and Information Technology
-Bismarck State College — 2025
 
 Technical Skills:
 
