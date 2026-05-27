@@ -88,7 +88,7 @@ Currently studying for:
 
 ## Projects
 
-Projects and lab documentation coming soon.
+Home projects and lab documentation coming soon!
 
 <!--
 **jmrat34/jmrat34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
