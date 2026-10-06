@@ -3,15 +3,14 @@
 Recent cybersecurity graduate with experience in information security, IT support, networking, and more!
 
 Currently focused on:
+- Network Engineering/Network Infrastructure
 - Blue Team / SOC skills
 - System administration
 - Security monitoring
-- Networking
-- Hacking/Pentesting Labs
 
 ## Purpose
 
-I am passionate about cybersecurity and IT so I created this page to serve as a place to document projects, labs, and technical skills as I continue developing practical experience in the field.
+I am passionate about networking, cybersecurity, and IT so I created this page to serve as a place to document projects, labs, and technical skills as I continue developing practical experience in the field.
 
 ## Education
 
@@ -83,6 +82,7 @@ Security and Hacking Certificate - Bismarck State College
 
 Currently studying for:
 - CompTIA Security+
+- CompTIA Network+
 - Cisco CCNA
 
 ## Projects
